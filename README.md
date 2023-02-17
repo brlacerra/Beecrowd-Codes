@@ -15,4 +15,4 @@ Made in 2020.</p>
 The intention of this code is not to share the resolution of the same to other people,
 but yes, to show my evolution with programming languages.</p>
 
-<a href="https://www.beecrowd.com.br/judge/pt/profile/565777">Meu perfil no Beecrowd</a>
+<a href="https://www.beecrowd.com.br/judge/pt/profile/565777">Beecrowd profile</a>
